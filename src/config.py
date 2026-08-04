@@ -1,7 +1,7 @@
 import os
 
 
-DEVELOPER_NAME = "alexis574807"
+DEVELOPER_NAME = "linkoro57"
 GUILD_ID = int(os.getenv("GUILD_ID", "0"))
 
 CHANNEL_IDS = {

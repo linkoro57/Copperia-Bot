@@ -26,7 +26,7 @@ Copperia Bot is a Python Discord bot developed by **linkoro57**.
 ## Installation
 
 ```powershell
-cd "C:\Users\thoma\OneDrive\Documents\Copperia Bot"
+cd "C:\Users\user\OneDrive\Documents\Copperia Bot"
 python -m venv .venv
 .\.venv\Scripts\activate
 pip install -r requirements.txt
@@ -44,7 +44,7 @@ GUILD_ID=your_discord_server_id_here
 ## Run
 
 ```powershell
-cd "C:\Users\thoma\OneDrive\Documents\Copperia Bot"
+cd "C:\Users\user\OneDrive\Documents\Copperia Bot"
 .\.venv\Scripts\activate
 python main.py
 ```

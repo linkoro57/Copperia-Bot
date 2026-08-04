@@ -1,6 +1,6 @@
 # Copperia Bot
 
-Copperia Bot is a Python Discord bot developed by **alexis574807**.
+Copperia Bot is a Python Discord bot developed by **linkoro57**.
 
 ## Features
 
